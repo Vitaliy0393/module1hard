@@ -21,7 +21,7 @@ students = list
 students = [['Johnny'], ['Bilbo'], ['Steve'], ['Khendrik'], ['Aaron']]
 #print(students)
 
-midlle_bul_students = {'Johnny':[midlle3_], 'Bilbo':[midlle2_], 'Steve':[midlle5_], 'Khendrik':[midlle4_],'Aaron':[midlle1_]}
+midlle_bul_students = {'Johnny':midlle3_, 'Bilbo':midlle2_, 'Steve':midlle5_, 'Khendrik':midlle4_,'Aaron':midlle1_}
 print(midlle_bul_students)
 
 
